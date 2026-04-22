@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **advanced backend and cloud tools**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me on **GitHub messages/issues**
 
 ---
 
@@ -33,6 +33,5 @@
 
 ### 🤝 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/dev-raufhossain" target="_blank">GitHub</a>
 </p>
