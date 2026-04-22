@@ -28,10 +28,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dev-raufhossain&show_icons=true&theme=tokyonight" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-raufhossain&theme=tokyonight" alt="streak stats" />
 </p>
-
----
-
-### 🤝 Connect with Me
-<p>
-  <a href="https://github.com/dev-raufhossain" target="_blank">GitHub</a>
-</p>
