@@ -155,7 +155,7 @@ const rauf = {
 | 🌐 **Portfolio** | [raufhossain.xyz](https://raufhossain.xyz) |
 | 💼 **LinkedIn** | [linkedin.com/in/raufhossain](https://linkedin.com/in/raufhossain) |
 | 🐦 **Twitter / X** | [@raufhossain_](https://twitter.com/raufhossain_) |
-| 📧 **Email** | [RaufHossain.dev](mailto:dev@raufhossain.xyz) |
+| 📧 **Email** | [Rauf Hossain](mailto:rauf.h.developer@gmail.com) |
 | 🏢 **Company** | HashTag Research & Technology Ltd. |
 
 </div>
