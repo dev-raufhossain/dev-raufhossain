@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rauf Hossain</h1>
+<h3 align="center">A Passionate Developer from Bangladesh</h3>
 
-<!--
-**dev-raufhossain/dev-raufhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-raufhossain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on **modern web projects**
+- 🌱 I’m currently learning **advanced backend and cloud tools**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
+- 📫 Reach me at **your-email@example.com**
+
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,python,git,github,vscode" alt="tech stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-raufhossain&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-raufhossain&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/dev-raufhossain" target="_blank">GitHub</a>
+</p>
